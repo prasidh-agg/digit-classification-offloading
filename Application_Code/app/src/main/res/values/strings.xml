@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Classifier</string>
+    <string name="click">Click</string>
+    <string name="cse_535_project_3_group_20">CSE-535 Group 20</string>
+    <string name="enter_ip_1">Enter IP device 1</string>
+    <string name="enter_ip_2">Enter IP device 2</string>
+    <string name="enter_ip_3">Enter IP device 3</string>
+    <string name="enter_ip_4">Enter IP device 4</string>
+    <string name="upload">Upload</string>
+    <string name="back">Back</string>
+    <string name="preview_image">Preview Image</string>
+    <string-array name="photoCategoryArray">
+        <item>Human</item>
+        <item>Nature</item>
+        <item>Food</item>
+        <item>Object</item>
+        <item>Other</item>
+    </string-array>
+</resources>
